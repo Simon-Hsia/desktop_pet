@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/飞行.gif</file>
+        <file>imgs/观望.gif</file>
+        <file>imgs/做鬼脸.gif</file>
+        <file>imgs/煎蛋.gif</file>
+        <file>imgs/难过.gif</file>
+        <file>imgs/神笔.gif</file>
+        <file>imgs/铜锣烧.gif</file>
+        <file>imgs/运动.gif</file>
+        <file>imgs/匆忙.png</file>
+        <file>imgs/好奇.png</file>
+        <file>imgs/生气.gif</file>
+        <file>imgs/生日.gif</file>
+        <file>imgs/思考.png</file>
+        <file>imgs/侦查.png</file>
+        <file>imgs/点头.gif</file>
+    </qresource>
+</RCC>

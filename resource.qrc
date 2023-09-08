@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/打架.gif</file>
+        <file>imgs/飞行.gif</file>
+        <file>imgs/观望.gif</file>
+        <file>imgs/鬼脸.gif</file>
+        <file>imgs/玩耍.gif</file>
+        <file>imgs/运动.gif</file>
+    </qresource>
+</RCC>
